@@ -1,4 +1,4 @@
-let name = "Masai School";
-let name2 = "A Transformation in Education";
-console.log(name);
-console.log(name2);
+let name_folder = "Masai School";
+let name_file = "A Transformation in Education";
+console.log(name_folder);
+console.log(name_file);
